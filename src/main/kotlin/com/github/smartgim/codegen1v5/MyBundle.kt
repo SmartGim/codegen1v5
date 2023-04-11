@@ -1,4 +1,4 @@
-package org.jetbrains.plugins.template
+package com.github.smartgim.codegen1v5
 
 import com.intellij.DynamicBundle
 import org.jetbrains.annotations.NonNls
